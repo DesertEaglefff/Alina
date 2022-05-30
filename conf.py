@@ -1,6 +1,6 @@
 # orange swallow
 def main():
-    print("hello") #мал
-    print("hello") #мал буквы
+    print("Hello")
+    print("Hello")
 if __name__ == '__main__':
     main()
